@@ -1,0 +1,32 @@
+﻿  main.cpp
+  Menu.cpp
+  Struct_Stu.cpp
+  Stu_Add.cpp
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Add.cpp(44,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Add.cpp(44,17): message : 此参数用作缓冲区大小
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Add.cpp(46,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Add.cpp(46,17): message : 此参数用作缓冲区大小
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Add.cpp(50,17): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char (*)[10]”
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Add.cpp(50,17): message : 请考虑在格式字符串中使用“%hhd”
+  Stu_Change.cpp
+  Stu_Examine.cpp
+  Stu_Initialize.cpp
+  Stu_Initialize.h
+  Stu_Initialize_Add.h
+  Stu_insertion.cpp
+  Stu_read.cpp
+  Stu_Remove.cpp
+  Stu_Save.cpp
+  Stu_Search.cpp
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Search.cpp(18,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Search.cpp(18,10): message : 此参数用作缓冲区大小
+  Stu_Sort.cpp
+  正在生成代码...
+  Stu_Initialize_Add.cpp
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Initialize_Add.cpp(33,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Initialize_Add.cpp(33,17): message : 此参数用作缓冲区大小
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Initialize_Add.cpp(35,17): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\VS_code\My_C\规范化_学生管理系统\Stu_Initialize_Add.cpp(35,17): message : 此参数用作缓冲区大小
+x64\Debug\Stu_Initialize.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Debug\Stu_Initialize_Add.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  规范化_学生管理系统.vcxproj -> D:\VS_code\My_C\规范化_学生管理系统\x64\Debug\规范化_学生管理系统.exe
